@@ -28,6 +28,6 @@
 ! * THE POSSIBILITY OF SUCH DAMAGE.
 ! */
 
-	print *, 'hello from foo...'
+	print *, 'hello frojfghm foo...'
 	call bar()
 	end

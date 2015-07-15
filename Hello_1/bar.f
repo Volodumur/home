@@ -29,5 +29,5 @@
 ! */
 
 	subroutine bar()
-	print *, 'hello from bar...'
+	print *, 'hello from bars...'
 	end
